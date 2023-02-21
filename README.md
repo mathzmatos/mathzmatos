@@ -1,8 +1,6 @@
 <h1 align="center">Olá, meu nome é Matheus Matos</h1>
 <h3 align="center">Explorando o mundo do desenvolvimento Fullstack: A jornada de um estudante de T.I em busca de conhecimento</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathzmatos&label=Profile%20views&color=0e75b6&style=flat" alt="mathzmatos" /> </p>
-
 - 🔭 Atualmente trabalhando em um projeto pessoal **NeedNow**
 
 - 🌱 No momento aprendendo **Fullstack**
