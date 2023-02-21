@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalhando em um projeto pessoal **NeedNow**
 
-- 🌱 No momento aprendendo **Fullstack**
+- 🌱 No momento aprendendo ** Desenvolvimento Fullstack**
 
 - 👨‍💻 Portfolio [https://red-meadow-02ecf7510.1.azurestaticapps.net/](https://red-meadow-02ecf7510.1.azurestaticapps.net/)
 
